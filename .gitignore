@@ -1,1 +1,6 @@
+# .NET
 obj/
+bin/
+
+# AWS SAM CLI
+.aws-sam/
